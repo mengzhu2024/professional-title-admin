@@ -1,0 +1,2 @@
+前台：http://localhost:8080/springboot82f6q/front/pages/login/login.html
+后台：http://localhost:8080/springboot82f6q/admin/dist/index.html
